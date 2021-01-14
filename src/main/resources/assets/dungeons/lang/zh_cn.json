@@ -1,0 +1,63 @@
+{
+    "itemGroup.dungeons.generic": "地下城通用方块 §6(JavaDungeons)",
+    "itemGroup.dungeons.creeper_woods": "苦力怕森林 §6(JavaDungeons)",
+    "itemGroup.dungeons.desert_temple": "沙漠神殿 §6(JavaDungeons)",
+    "itemGroup.dungeons.pumpkin_pastures": "南瓜牧场 §6(JavaDungeons)",
+    "itemGroup.dungeons.soggy_swamp": "潮湿沼泽 §6(JavaDungeons)",
+    "itemGroup.dungeons.cacti_canyon": "仙人掌峡谷 §6(JavaDungeons)",
+    "itemGroup.dungeons.redstone_mines": "红石矿山 §6(JavaDungeons)",
+    "itemGroup.dungeons.fiery_forge": "烈焰锻造厂 §6(JavaDungeons)",
+    "itemGroup.dungeons.weapons": "地下城武器 §6(JavaDungeons)",
+
+    "biome.dungeons.creeper_woods": "苦力怕森林",
+    "biome.dungeons.pumpkin_pastures": "南瓜牧场",
+    "biome.dungeons.dungeons_plains": "地下城平原",
+    "biome.dungeons.cacti_canyon": "仙人掌峡谷",
+    "biome.dungeons.cacti_canyon_desert": "仙人掌峡谷沙漠",
+    "biome.dungeons.soggy_swamp": "潮湿沼泽",
+
+    "item.dungeons.axe": "斧头",
+    "item.dungeons.highland_axe": "§6高地之斧",
+    "item.dungeons.cursed_axe": "§6诅咒之斧",
+    "item.dungeons.whirlwind": "§6旋风斧",
+    "item.dungeons.firebrand": "§6烙火",
+    "item.dungeons.double_axe": "双刃斧",
+
+    "item.dungeons.steel_pickaxe": "镐",
+
+    "item.dungeons.claymore": "§2阔剑",
+    "item.dungeons.heartstealer": "§6窃心者",
+    "item.dungeons.cutlass": "弯刀",
+    "item.dungeons.nameless_blade": "§6无名之刃",
+    "item.dungeons.broadsword": "§6大剑",
+    "item.dungeons.katana": "武士刀",
+    "item.dungeons.masters_katana": "§6大师的武士刀",
+    "item.dungeons.dark_katana": "§6暗黑武士刀",
+    "item.dungeons.steel_sword": "剑",
+    "item.dungeons.truthseeker": "§6求真者",
+
+    "item.dungeons.stone_hammer": "大锤",
+
+    "item.dungeons.dagger": "双持匕首",
+    "item.dungeons.moon_dagger": "§6月之匕首",
+    "item.dungeons.fangs_of_frost": "§6寒霜獠牙",
+
+    "item.dungeons.soul_knife": "灵魂之刃",
+    "item.dungeons.eternal_knife": "§6永恒之刃",
+
+    "item.dungeons.sickle": "镰刀",
+    "item.dungeons.nightmares_bite": "§6梦魇之噬",
+    
+    "item.dungeons.frost_scythe": "§6冰霜长镰",
+    "item.dungeons.jailors_scythe": "§6狱卒的镰刀",
+    "item.dungeons.soul_scythe": "灵魂长镰",
+
+    "item.dungeons.glaive": "长柄刀",
+    "item.dungeons.grave_bane": "§6弑墓者",
+    "item.dungeons.venom_glaive": "§6剧毒长刀",
+
+    "item.dungeons.spear": "长矛",
+    "item.dungeons.fortune_spear": "§6幸运长矛",
+    "item.dungeons.whispering_spear": "§6呢喃矛"
+    
+}
